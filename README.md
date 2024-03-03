@@ -1,2 +1,2 @@
 # chat.ezbox
-Chat.ezbox is an APP for testing many LLMs
+Chat.Ezbox is an APP for testing many LLMs

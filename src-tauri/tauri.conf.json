@@ -1,18 +1,22 @@
 {
-  "productName": "chatezbox",
-  "version": "0.0.0",
+  "productName": "chat-ezbox",
+  "version": "0.0.1",
   "identifier": "com.tauri.dev",
   "build": {
     "beforeDevCommand": "pnpm dev",
-    "devUrl": "http://localhost:1420",
+    "devUrl": "http://localhost:14620",
     "beforeBuildCommand": "pnpm build",
     "frontendDist": "../dist"
   },
   "app": {"windows": [
       {
-        "title": "chatezbox",
-        "width": 800,
-        "height": 600
+        "title": "Chat Ezbox",
+        "width": 420,
+        "height": 960,
+        "minWidth": 320,
+        "minHeight": 600,
+        "hiddenTitle": true,
+        "contentProtected": false
       }
     ],
     "security": {

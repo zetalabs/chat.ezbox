@@ -1,8 +1,8 @@
 [package]
-name = "chatezbox"
-version = "0.0.0"
+name = "chat-ezbox"
+version = "0.0.1"
 description = "A Tauri App"
-authors = ["you"]
+authors = ["David.Hui.Tang"]
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
